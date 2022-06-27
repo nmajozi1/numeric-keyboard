@@ -22,8 +22,6 @@
     "@angular/router": "~13.0.0",
     "@mobiscroll/angular-lite": "^4.10.9",
     "bootstrap": "^5.1.3",
-    "ng-numeric-keyboard": "^1.0.1",
-    "numeric-keyboard": "^0.7.0",
     "rxjs": "~7.4.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
